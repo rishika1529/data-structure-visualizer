@@ -42,22 +42,3 @@ Queue Example:
 
 FRONT -> | 10 | -> | 20 | -> | 30 | <- REAR
 
-🎨 Why This Project?
-
-Because DSA should be fun! Instead of memorizing theory, see the actual push, pop, enqueue, dequeue in action. Perfect for:
-✅ Students learning DSA
-✅ Beginners in C++
-✅ Visual learners
-🔮 Future Plans
-
-    Add Graph Visualization 🕸
-
-    Better ASCII animations
-
-    Colorful output (if terminal supports it)
-
-👩‍💻 Author
-
-Made with ❤️ by Rishika!
-
-⭐ If you like this project, star the repo and share it with your friends!
