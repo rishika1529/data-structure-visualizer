@@ -9,6 +9,7 @@ This project is a pure C++ console-based application that helps you visualize po
 ✔️ Stack → Like plates stacked one on top of another.
 ✔️ Queue → A real-world waiting line simulation.
 ✔️ Linked List → Nodes connected with pointers.
+pq
 ✔️ Interactive → Insert, delete, and see the magic happen in real time!
 🛠️ Built With
 
